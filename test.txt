@@ -1,3 +1,5 @@
 https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html 
 
-don't git init inside an existing repocd
+git add and git commit what's the difference
+
+don't git init inside an existing repo
